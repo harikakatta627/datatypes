@@ -16,7 +16,7 @@ print(type(d))
 print("sum is : ",c+d)
 
 
-#example3
+#example 3
 
 e= 1+2j
 f= 3+4j
