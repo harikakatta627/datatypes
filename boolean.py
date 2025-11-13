@@ -30,3 +30,4 @@ print("String value of b : ", str(b))
 print("Boolean value of 1 : ", bool(1))
 print("Boolean value of 0 : ", bool(0))
 print("Boolean value of -1 : ", bool(-1))
+#ggg
